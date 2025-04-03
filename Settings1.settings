@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Fallout4Launcher" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="label1S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PLAY</Value>
+    </Setting>
+    <Setting Name="label2S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Open Launcher</Value>
+    </Setting>
+    <Setting Name="AutorunS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="btn1S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Game File</Value>
+    </Setting>
+    <Setting Name="btn2S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Launcher File</Value>
+    </Setting>
+    <Setting Name="Counter" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
